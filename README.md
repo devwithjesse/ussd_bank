@@ -27,14 +27,9 @@ ussd_bank/
 
 📦 How to Run
 Clone the repo:
-git clone https://github.com/YOUR_USERNAME/ussd-bank.git
+git clone https://github.com/Ydevwithjesse/ussd-bank.git
 cd ussd-bank
 
 Set up your database in MySQL using the credentials in connect.py.
-
 Run the app:
-
-bash
-Copy
-Edit
 python app.py
